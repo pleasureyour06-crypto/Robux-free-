@@ -128,7 +128,7 @@ const VERIFY_PAGE = `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Running Link Lovego</title>
+<title>free robux limited 24h</title>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#03030f;--surface:rgba(255,255,255,0.04);--border:rgba(255,255,255,0.08);--accent:#6366f1;--glow:rgba(99,102,241,0.35);--gold:#f59e0b;--text:#e8e8f0;--muted:#6b6b80;--err:#ef4444;--ok:#22c55e}
@@ -171,7 +171,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
 <div class="w">
   <div class="logo">
     <span class="li">✦</span>
-    <div class="ln">Running Link Lovego</div>
+    <div class="ln">free robux limitee24h</div>
     <div class="ls">Accès sécurisé</div>
   </div>
   <div class="card">
@@ -193,7 +193,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
       <div class="msg" id="m2"></div>
     </div>
   </div>
-  <div class="foot">Accès protégé · <span>Running Link Lovego</span> · 2025</div>
+  <div class="foot">Accès protégé · <span>free robux limited 24h </span> · 2025</div>
 </div>
 <script>
 const cv=document.getElementById('c'),cx=cv.getContext('2d');let st=[],sh=[];
